@@ -16,8 +16,8 @@ A lightweight, minimalist desktop PDF reader built with **Electron**, **Node.js*
 
 ## Getting Started ⚙️
 
-### Prerequisites
-Make sure you have **Node.js** installed on your machine.
+## Prerequisites ⚙️
+Make sure you have **Node.js** installed on your machine. You can download the official installer from [nodejs.org](https://nodejs.org/en/download).
 
 ### Installation & Running
 1. Clone or download this repository.
